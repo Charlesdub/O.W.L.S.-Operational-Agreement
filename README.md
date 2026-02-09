@@ -14,11 +14,11 @@ The name of the limited liability company is **O.W.L.S. LLC** (the "Company").
 
 ### 1.2 Formation
 
-The Company was formed as a limited liability company pursuant to the laws of the State of **[STATE]**, by filing Articles of Organization with the appropriate state authority.
+The Company was formed as a limited liability company pursuant to the laws of the State of **[Oklahoma]**, by filing Articles of Organization with the appropriate state authority.
 
 ### 1.3 Principal Office
 
-The principal office of the Company shall be located at **[ADDRESS]**, or such other place as determined by the Manager.
+The principal office of the Company shall be located at **[4785 E 91st St]**, or such other place as determined by the Manager.
 
 ### 1.4 Term
 
@@ -42,7 +42,7 @@ The purpose of the Company is to act as a **holding and parent company**, includ
 The Company is the sole parent entity of the following subsidiaries:
 
 1. **CharlesDub Audio** — a record label and music-related enterprise
-2. **Lil Rain Collections** — an adult entertainment and digital content enterprise
+2. **LL Rain Collections** — an adult entertainment and digital content enterprise
 
 Each subsidiary shall operate as a legally distinct entity with separate books, accounts, contracts, and liabilities.
 
@@ -65,7 +65,7 @@ The Company shall have all powers permitted to an LLC under state law, including
 
 The Company shall be **[Single-Member / Multi-Member]**.
 
-* **Member Name**: Charles **[Last Name]**
+* **Member Name**: Dakota Watashe aka **[Charles Dubalaney]**
 * **Ownership Interest**: 100% (unless otherwise amended)
 
 ### 3.2 Capital Contributions
@@ -86,7 +86,7 @@ The Company shall be **Manager-Managed**.
 
 ### 4.2 Manager
 
-* **Manager**: Charles **[Last Name]**
+* **Manager**: Dakota Watashe aka **[Charles Dubalaney]**
 
 The Manager shall have full and exclusive authority to operate the Company, including control over subsidiaries.
 
@@ -140,7 +140,7 @@ Subsidiaries operate under revocable, non-transferable licenses granted by the C
 
 ### 6.3 Adult Content Safeguard
 
-Adult entertainment IP and operations shall be strictly confined to **Lil Rain Collections**, and shall not contaminate or legally attach to CharlesDub Audio or other subsidiaries.
+Adult entertainment IP and operations shall be strictly confined to **LL Rain Collections**, and shall not contaminate or legally attach to CharlesDub Audio or other subsidiaries.
 
 ---
 
@@ -215,7 +215,7 @@ Upon dissolution, assets shall be liquidated and distributed after liabilities a
 
 ### 13.1 Governing Law
 
-This Agreement shall be governed by the laws of the State of **[STATE]**.
+This Agreement shall be governed by the laws of the State of **[Oklahoma]**.
 
 ### 13.2 Amendments
 
@@ -229,12 +229,12 @@ Invalid provisions shall not affect the remainder of the Agreement.
 
 ## SIGNATURE
 
-**MEMBER:**
+**MEMBER:** Dakota Watashe
 
 ---
 
-Charles **[Last Name]**
-Date: _______________
+Dakota Watashe 
+Date: ______2/9/2026_________
 
 
 O.W.L.S. Operational Agreement
